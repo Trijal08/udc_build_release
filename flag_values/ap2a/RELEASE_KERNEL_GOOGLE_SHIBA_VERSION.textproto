@@ -1,4 +1,4 @@
-name: "RELEASE_KERNEL_SHIBA_VERSION"
+name: "RELEASE_KERNEL_GOOGLE_SHIBA_VERSION"
 value: {
   string_value: "6.1"
 }
